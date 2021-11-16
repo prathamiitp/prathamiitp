@@ -1,6 +1,6 @@
 <h1 align='center'>
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- I'm Pratham 🧑‍💻
+  I'm Pratham 🧑‍💻
 </h1>
 
 <p align='center'>
@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning- DSA, WebDev
 - 👯 I’m looking to collaborate on- Anything that is not enough straight forward, to actually learn something out of it
 - 🤔 I’m looking for help with- Time Management skills
-- ⚡ Fun fact: It sounds to boring to do aesthatics (w.r.t. me), hence I just used the templet provided by github😅
+- ⚡ Fun fact: It sounds too boring to do aesthatics (w.r.t. me), hence I just used the templet provided by github😅
 
 <details>
   <summary>📃 Resume</summary>
