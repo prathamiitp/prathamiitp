@@ -27,7 +27,7 @@
 - 🤔 I’m looking for help with- Time Management skills
 - ⚡ Fun fact: It sounds too boring to do aesthatics (w.r.t. me), hence I just used the templet provided by github😅
 
-<details>
+<!-- <details>
   <summary>📃 Resume</summary>
 
 
@@ -79,4 +79,4 @@
   </p>
     
 </details>  
- 
+  -->
