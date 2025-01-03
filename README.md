@@ -22,7 +22,7 @@
 </p>
   
 - 🔭 I’m currently working on- MYSELF and my GitHub Readme😂
-- 🌱 I’m currently learning- DSA, WebDev
+- 🌱 I’m currently learning- Autopilot softwares and Embedded programming
 - 👯 I’m looking to collaborate on- Anything that is not enough straight forward, to actually learn something out of it
 - 🤔 I’m looking for help with- Time Management skills
 - ⚡ Fun fact: It sounds too boring to do aesthatics (w.r.t. me), hence I just used the templet provided by github😅
